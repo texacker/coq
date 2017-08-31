@@ -1,1 +1,1 @@
-## Ring properties for square matrices, inspired by Nicolas Magaud.
+Ring properties for square matrices, inspired by Nicolas Magaud.
